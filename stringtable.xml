@@ -35,10 +35,10 @@
             <Polish></Polish>
         </Key>
         <Key ID="STR_Init_ClientFinish">
-            <Original>Завершение процедуры настройки клиента...</Original>
+            <Original>Finishing client setup procedure...</Original>
             <Czech></Czech>
             <Spanish>Finalizando configuración del cliente...</Spanish>
-            <Russian></Russian>
+            <Russian>Завершение процедуры настройки клиента...</Russian>
             <German></German>
             <Italian></Italian>
             <French></French>
@@ -52,7 +52,7 @@
             <Czech>Bruceovy Outback Oblečení</Czech>
             <French>Friperie de Bruce</French>
             <Spanish>Tienda de Ropa</Spanish>
-            <Russian></Russian>
+            <Russian>Снаряжение Брюса</Russian>
             <Portuguese>Loja de Roupas</Portuguese>
             <Polish>Sklep odzieżowy</Polish>
             <Italian>Emporio di Bruce</Italian>
@@ -63,7 +63,7 @@
             <Czech>Altis policejní oddělení Shop</Czech>
             <French>Boutique de la police</French>
             <Spanish>Tienda del Departamento de Policía</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин Департамента Полиции Алтиса</Russian>
             <Portuguese>Loja de Roupas Policiais</Portuguese>
             <Polish>Sklep Policyjny</Polish>
             <Italian>Dipartimento della Polizia di Altis</Italian>
@@ -75,7 +75,7 @@
             <French>Magasin Rebel de Mohammed</French>
             <Spanish>Tienda Jihadi de Mohamed</Spanish>
             <Italian>Negozio della Jihad di Mohammed</Italian>
-            <Russian></Russian>
+            <Russian>Магазин у Мухамеда</Russian>
             <Portuguese>Loja de Roupas Rebeldes</Portuguese>
             <Polish>Sklep samobójców AKBAR</Polish>
             <German>Mohammeds Jihad-Shop</German>
@@ -86,7 +86,7 @@
             <French>Magasin de plongé Steven</French>
             <Spanish>Tienda de Buceo</Spanish>
             <Italian>Negozio Sub di Steve</Italian>
-            <Russian></Russian>
+            <Russian>Дайверский магазин Стива</Russian>
             <German>Steve's Taucherausrüstung</German>
             <Portuguese>Loja de equipamentos para Mergulho</Portuguese>
             <Polish>Sklep dla nurków</Polish>
@@ -95,7 +95,7 @@
             <Original>Billy Joe's Clothing</Original>
             <Czech>Billy Joe oblečení</Czech>
             <Spanish>Tienda de Ropa de Billy Joe</Spanish>
-            <Russian></Russian>
+            <Russian>Одежда Билли Джо</Russian>
             <German>Billy Joe Bekleidung</German>
             <Italian>Emporio di Billy</Italian>
             <French>Friperie de Billy Joe</French>
@@ -106,7 +106,7 @@
             <Original>Billy Joe's Firearms</Original>
             <Czech>Billy Joe Střelné zbraně</Czech>
             <Spanish>Tienda de Armas de Billy Joe</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин Оружия Билли Джо</Russian>
             <German>Billy Joe Schusswaffen</German>
             <Italian>Armeria di Billy Joe</Italian>
             <French>Les armes de Billy Joe</French>
@@ -119,7 +119,7 @@
             <French>Tenues de Bobby</French>
             <Spanish>Tienda de Trajes de Carreras</Spanish>
             <Italian>Vestiario da Pilota </Italian>
-            <Russian></Russian>
+            <Russian>Магазин Картинга Бобби</Russian>
             <German>Bobby's Go-Kart Rennklamotten</German>
             <Portuguese>Loja de equipamentos para Kart</Portuguese>
             <Polish>Sklep Kartingowy</Polish>
@@ -128,7 +128,7 @@
             <Original>Altis Market</Original>
             <Czech>Altis Market</Czech>
             <Spanish>Mercado de Altis</Spanish>
-            <Russian></Russian>
+            <Russian>Супермаркет Алтиса</Russian>
             <German>Altis Markt</German>
             <Italian>Mercato</Italian>
             <French>Marché</French>
@@ -139,7 +139,7 @@
             <Original>Rebel Market</Original>
             <Czech>Rebel Market</Czech>
             <Spanish>Mercado Rebelde</Spanish>
-            <Russian></Russian>
+            <Russian>Супермаркет Повстанцев</Russian>
             <German>Rebellen Markt</German>
             <Italian>Mercato Ribelle</Italian>
             <French>Marché Rebel</French>
@@ -150,7 +150,7 @@
             <Original>Gang Market</Original>
             <Czech>gang Market</Czech>
             <Spanish>Mercado Pandillero</Spanish>
-            <Russian></Russian>
+            <Russian>Магазин Диллера наркотиков</Russian>
             <German>Gang Markt</German>
             <Italian>Mercato Gang</Italian>
             <French>Marché de Gang</French>
