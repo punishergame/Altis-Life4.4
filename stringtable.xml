@@ -5,7 +5,7 @@
             <Original>Setting up client, please wait...</Original>
             <Czech></Czech>
             <Spanish>Configurando cliente. Por favor espere...</Spanish>
-            <Russian></Russian>
+            <Russian>Настройка клиента, подождите...</Russian>
             <German></German>
             <Italian></Italian>
             <French></French>
@@ -16,7 +16,7 @@
             <Original>Waiting for the server to be ready...</Original>
             <Czech></Czech>
             <Spanish>Esperando a que el servidor esté listo...</Spanish>
-            <Russian></Russian>
+            <Russian>Ожидание готовности сервера...</Russian>
             <German></German>
             <Italian></Italian>
             <French></French>
@@ -27,7 +27,7 @@
             <Original>extDB failed to load, please contact an administrator.</Original>
             <Czech></Czech>
             <Spanish>extDB no se pudo cargar, por favor contacte a un administrador.</Spanish>
-            <Russian></Russian>
+            <Russian>extDB ошибка загрузки, обратитесь к администратору.</Russian>
             <German></German>
             <Italian></Italian>
             <French></French>
@@ -35,7 +35,7 @@
             <Polish></Polish>
         </Key>
         <Key ID="STR_Init_ClientFinish">
-            <Original>Finishing client setup procedure...</Original>
+            <Original>Завершение процедуры настройки клиента...</Original>
             <Czech></Czech>
             <Spanish>Finalizando configuración del cliente...</Spanish>
             <Russian></Russian>
